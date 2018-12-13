@@ -1,0 +1,2 @@
+blogdown::build_site()
+git remote add origin https://github.com/clayjamess/clayjamess.github.io.git
